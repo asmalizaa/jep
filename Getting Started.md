@@ -36,3 +36,10 @@ Unlike many other languages, it does not use curly brackets to delimit blocks, a
 - Python doesn't check variable types at compile time.
 - Python doesn't have much mobile support.
 - Python doesn't use multiple processing well.
+
+
+### Introduction to Anaconda interface
+
+[Anaconda](https://www.anaconda.com/) is one of the popular data science and analytic tools, providing support for both Python and R programming languages. 
+
+![image](https://user-images.githubusercontent.com/23090837/163896727-4d1a65c5-848b-421d-87e2-e3e03b5c4347.png)
