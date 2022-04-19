@@ -41,8 +41,8 @@ Participants should have curiosity to learn and basic understanding of programmi
     - Comparing Various Complex Data Types
     - List
     - Tuple
-    - Dictionary
     - Set
+    - Dictionary
 5. Program Flow and User-Defined Functions
     - Program Flow Statements
     - Working with Functions
